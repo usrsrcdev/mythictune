@@ -1,6 +1,6 @@
 # mythictune
 ## Installation Instructions
-1. Download and extract the zip archive
+1. Download and extract the zip archive (Intune-installer.dmg.zip)
 2. Double click on the DMG installer
 3. Follow the instructions on screen
 
